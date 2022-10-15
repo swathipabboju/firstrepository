@@ -6,6 +6,7 @@ void main(){
   int x=9;
   int y=10;
   print(x+y);
+  print("hii");
   String s=" Swa thi ";
   var v="chitti";
   print(s);
